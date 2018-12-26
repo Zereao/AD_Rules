@@ -8,7 +8,6 @@ csdn.net##.p4courset3_target
 csdn.net##.recommend-ad-box
 csdn.net##div[id*="dmp_ad_"]
 download.csdn.net,www.csdn.net,bbs.csdn.net,www.iteye.com##div[id*="kp_box_"]
-http://img.blog.csdn.net/20171031111402095
 juejin.im##.recommend-box
 mp.csdn.net##.bulletin
 segmentfault.com##.block
