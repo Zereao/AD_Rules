@@ -1,4 +1,4 @@
-csdn.net,iteye.com##div.meau-gotop-box,div.fourth_column,div#asideFooter,div.recommend-ad-box,div.persion_article,div.bulletin,div.guo_tip_box,div.fixed_footer,div#asideNewComments,div.indexSuperise,div#asideArchive,div.hide-article-box
+csdn.net,iteye.com##div.meau-gotop-box,div.fourth_column,div#asideFooter,div.recommend-ad-box,div.persion_article,div.bulletin,div.guo_tip_box,div.fixed_footer,div#asideNewComments,div.indexSuperise,div#asideArchive,div.hide-article-box,div.type_hot_word
 iteye.com##div.tuiguang
 segmentfault.com##div[class*="text-center block hidden-xs"]
 w3school.com.cn##div#ad_head,div#ad
