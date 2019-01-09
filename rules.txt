@@ -1,8 +1,10 @@
-csdn.net,iteye.com##div.meau-gotop-box,div.fourth_column,div#asideFooter,div.recommend-ad-box,div.persion_article,div.bulletin,div.guo_tip_box,div.fixed_footer,div#asideNewComments,div.indexSuperise,div#asideArchive,div.hide-article-box,div.type_hot_word
+csdn.net,iteye.com##div.custom-box,div.meau-gotop-box,div.fourth_column,div#asideFooter,div.recommend-ad-box,div.persion_article,div.bulletin,div.guo_tip_box,div.fixed_footer,div#asideNewComments,div.indexSuperise,div#asideArchive,div.hide-article-box,div.type_hot_word
 iteye.com##div.tuiguang
-segmentfault.com##div[class*="text-center block hidden-xs"]
+segmentfault.com##div[class*="text-center block hidden-xs"],div[class*="block text-center"]
 w3school.com.cn##div#ad_head,div#ad
 jianshu.com##div#note-fixed-ad-container,a#web-note-ad-1
 greasyfork.org##div[class*="ad ad-ca"]
 baidu.com##a#selectsearch-icon
-stackoverflow.com##div#dfp-tlb,div#js-gdpr-consent-banner
+stackoverflow.com##div.everyonelovesstackoverflow,div#js-gdpr-consent-banner
+aliyun.com##div[aliyun-lego-data*=""][aliyun-lego-tip*=""],div.float-tool
+imooc.com##p[class*="tip js-tip"]
