@@ -6,11 +6,11 @@
 ! Last Modified: 2019年02月26日 11:30
 ! Homepage: https://github.com/Zereao/AD_Rules
 
-! CSDN、itEye公用规则
+
+! CSDN、itEye公用
 csdn.net,iteye.com##div.custom-box
 csdn.net,iteye.com##div.meau-gotop-box
 csdn.net,iteye.com##div.fourth_column
-csdn.net,iteye.com##div#asideFooter
 csdn.net,iteye.com##div.recommend-ad-box
 csdn.net,iteye.com##div.persion_article
 csdn.net,iteye.com##div.bulletin
@@ -21,18 +21,49 @@ csdn.net,iteye.com##div.indexSuperise
 csdn.net,iteye.com##div#asideArchive
 csdn.net,iteye.com##div.hide-article-box
 csdn.net,iteye.com##div.type_hot_word
+csdn.net,iteye.com##div[class*="blog_tip_box js-evernote-checked"]
 
-! itEye规则
+
+! itEye
 iteye.com##div.tuiguang
 
-！SegmentFault 思否规则
+
+！SegmentFault 思否
 segmentfault.com##div[class*="text-center block hidden-xs"]
 segmentfault.com##div[class*="block text-center"]
 
-w3school.com.cn##div#ad_head,div#ad
-jianshu.com##div#note-fixed-ad-container,a#web-note-ad-1
+
+! W3CSchool
+w3school.com.cn##div#ad_head
+w3school.com.cn##div#ad
+
+
+! 简书
+jianshu.com##div#note-fixed-ad-container
+jianshu.com##a#web-note-ad-1
+
+
+! greasyfork
 greasyfork.org##div[class*="ad ad-ca"]
+
+
+! 百度
 baidu.com##a#selectsearch-icon
-stackoverflow.com##div.everyonelovesstackoverflow,div#js-gdpr-consent-banner
-aliyun.com##div[aliyun-lego-data*=""][aliyun-lego-tip*=""],div.float-tool
-imooc.com##p[class*="tip js-tip"],div[class*="wechat-box js-wechat-box"]
+
+
+! StackOverFlow
+stackoverflow.com##div.everyonelovesstackoverflow
+stackoverflow.com##div#js-gdpr-consent-banner
+
+
+! 阿里云
+aliyun.com##div[aliyun-lego-data*=""][aliyun-lego-tip*=""]
+aliyun.com##div.float-tool
+
+
+! 慕课网
+imooc.com##p[class*="tip js-tip"]
+imooc.com##div[class*="wechat-box js-wechat-box"]
+
+
+
