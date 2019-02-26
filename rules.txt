@@ -8,17 +8,14 @@
 
 
 ! CSDN、itEye公用
-csdn.net,iteye.com##div.custom-box
 csdn.net,iteye.com##div.meau-gotop-box
 csdn.net,iteye.com##div.fourth_column
 csdn.net,iteye.com##div.recommend-ad-box
-csdn.net,iteye.com##div.bulletin
 csdn.net,iteye.com##div.guo_tip_box
 csdn.net,iteye.com##div.fixed_footer
 csdn.net,iteye.com##div#asideNewComments
 csdn.net,iteye.com##div.indexSuperise
 csdn.net,iteye.com##div#asideArchive
-csdn.net,iteye.com##div.hide-article-box
 csdn.net,iteye.com##div.type_hot_word
 csdn.net,iteye.com##div.blog_tip_box
 
