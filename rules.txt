@@ -1,3 +1,13 @@
+[Adblock Plus 2.0]
+! Checksum: vXO2skD37egAcrKzRVhe1A
+! Version: 201901301037
+! Title: Zereao自用规则
+! Last modified: 03 Feb 2014 03:50 UTC
+! Expires: 2 days (update frequency)
+! Homepage: 
+!
+!----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
+
 ! CSDN、itEye公用规则
 csdn.net,iteye.com##div.custom-box
 csdn.net,iteye.com##div.meau-gotop-box
