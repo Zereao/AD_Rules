@@ -1,6 +1,26 @@
-csdn.net,iteye.com##div.custom-box,div.meau-gotop-box,div.fourth_column,div#asideFooter,div.recommend-ad-box,div.persion_article,div.bulletin,div.guo_tip_box,div.fixed_footer,div#asideNewComments,div.indexSuperise,div#asideArchive,div.hide-article-box,div.type_hot_word
+! CSDN、itEye公用规则
+csdn.net,iteye.com##div.custom-box
+csdn.net,iteye.com##div.meau-gotop-box
+csdn.net,iteye.com##div.fourth_column
+csdn.net,iteye.com##div#asideFooter
+csdn.net,iteye.com##div.recommend-ad-box
+csdn.net,iteye.com##div.persion_article
+csdn.net,iteye.com##div.bulletin
+csdn.net,iteye.com##div.guo_tip_box
+csdn.net,iteye.com##div.fixed_footer
+csdn.net,iteye.com##div#asideNewComments
+csdn.net,iteye.com##div.indexSuperise
+csdn.net,iteye.com##div#asideArchive
+csdn.net,iteye.com##div.hide-article-box
+csdn.net,iteye.com##div.type_hot_word
+
+! itEye规则
 iteye.com##div.tuiguang
-segmentfault.com##div[class*="text-center block hidden-xs"],div[class*="block text-center"]
+
+！SegmentFault 思否规则
+segmentfault.com##div[class*="text-center block hidden-xs"]
+segmentfault.com##div[class*="block text-center"]
+
 w3school.com.cn##div#ad_head,div#ad
 jianshu.com##div#note-fixed-ad-container,a#web-note-ad-1
 greasyfork.org##div[class*="ad ad-ca"]
