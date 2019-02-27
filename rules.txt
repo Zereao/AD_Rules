@@ -63,4 +63,8 @@ imooc.com##p[class*="tip js-tip"]
 imooc.com##div[class*="wechat-box js-wechat-box"]
 
 
+! 掘金
+juejin.im##div.recommend-box
+
+
 
