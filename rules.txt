@@ -67,4 +67,7 @@ imooc.com##div[class*="wechat-box js-wechat-box"]
 juejin.im##div.recommend-box
 
 
-
+! 易百教程
+yiibai.com##a#article-start
+yiibai.com##ins.adsbygoogle
+yiibai.com##div#adv-javalive
