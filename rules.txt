@@ -71,3 +71,8 @@ juejin.im##div.recommend-box
 yiibai.com##a#article-start
 yiibai.com##ins.adsbygoogle
 yiibai.com##div#adv-javalive
+
+
+! 51CTO
+51cto.com##div#Mask
+51cto.com##div[style*="z-index: 9999999"]
