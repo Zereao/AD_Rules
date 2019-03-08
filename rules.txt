@@ -76,3 +76,7 @@ yiibai.com##div#adv-javalive
 ! 51CTO
 51cto.com##div#Mask
 51cto.com##div[style*="z-index: 9999999"]
+
+
+! Google
+google.com##div#taw
