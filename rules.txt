@@ -80,3 +80,4 @@ yiibai.com##div#adv-javalive
 
 ! Google
 google.com##div#taw
+google.com.hk##div#taw
