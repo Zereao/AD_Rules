@@ -63,6 +63,10 @@ imooc.com##p[class*="tip js-tip"]
 imooc.com##div[class*="wechat-box js-wechat-box"]
 
 
+! 菜鸟教程
+runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
+
+
 ! 掘金
 juejin.im##div.recommend-box
 
@@ -81,3 +85,4 @@ yiibai.com##div#adv-javalive
 ! Google
 google.com##div#taw
 google.com.hk##div#taw
+
