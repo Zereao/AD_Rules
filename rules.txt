@@ -28,6 +28,7 @@ iteye.com##div.tuiguang
 ！SegmentFault 思否
 segmentfault.com##div[class*="text-center block hidden-xs"]
 segmentfault.com##div[class*="block text-center"]
+segmentfault.com##div.hidden-md
 
 
 ! W3CSchool
