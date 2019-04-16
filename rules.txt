@@ -64,8 +64,8 @@ aliyun.com##div.float-tool
 imooc.com##p[class*="tip js-tip"]
 imooc.com##div[class*="wechat-box js-wechat-box"]
 imooc.com##div#BindingPublicNumber
-imooc.com##div[class*="publicnumber-block js-publicnumber-block"]
-
+imooc.com##div#moco-top-advertising
+imooc.com##div.publicnumber-block
 
 ! 菜鸟教程
 runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
