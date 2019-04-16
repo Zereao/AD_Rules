@@ -63,6 +63,7 @@ aliyun.com##div.float-tool
 ! 慕课网
 imooc.com##p[class*="tip js-tip"]
 imooc.com##div[class*="wechat-box js-wechat-box"]
+imooc.com##div.__web-inspector-hide-shortcut__
 
 
 ! 菜鸟教程
