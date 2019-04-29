@@ -66,6 +66,8 @@ imooc.com##div[class*="wechat-box js-wechat-box"]
 imooc.com##div#BindingPublicNumber
 imooc.com##div#moco-top-advertising
 imooc.com##div.publicnumber-block
+imooc.com##div.adver-con
+
 
 ! 菜鸟教程
 runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
