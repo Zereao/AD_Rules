@@ -19,6 +19,7 @@ csdn.net,iteye.com##div#asideArchive
 csdn.net,iteye.com##div.type_hot_word
 csdn.net,iteye.com##div.blog_tip_box
 csdn.net,iteye.com##div.bulletin
+csdn.net,iteye.com##div.leftPop
 csdn.net,iteye.com##div[id^="kp_box_"]
 
 
