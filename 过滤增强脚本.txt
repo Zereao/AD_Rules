@@ -1,5 +1,4 @@
-[ADT 3]
-! Checksum: vXO2skD37egAcrKzRVhe1A
+[Adblock Plus 2.0]
 ! Version: 20180501
 ! Title: 过滤增强脚本
 ! Homepage: http://www.adtchrome.com/extension/adt-videolist.html
