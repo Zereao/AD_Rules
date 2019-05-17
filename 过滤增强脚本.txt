@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 3.0]
 ! Version: 20180501
 ! Title: 过滤增强脚本
 ! Homepage: http://www.adtchrome.com/extension/adt-videolist.html
