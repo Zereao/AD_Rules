@@ -21,6 +21,7 @@ csdn.net,iteye.com##div.blog_tip_box
 csdn.net,iteye.com##div.bulletin
 csdn.net,iteye.com##div.leftPop
 csdn.net,iteye.com##div[id^="kp_box_"]
+csdn.net,iteye.com##div.pulllog-box
 
 
 ! itEye
