@@ -1,9 +1,8 @@
 [Adblock Plus 3.0]
 ! Version: 20180501
 ! Title: 过滤增强脚本
-! Homepage: http://www.adtchrome.com/extension/adt-videolist.html
-! Match: http
-! Begin: --
+! Expires: 6 hours
+! Homepage: https://github.com/Zereao/AD_Rules
 
 //remove 17173 video ad
 doAdblock();
