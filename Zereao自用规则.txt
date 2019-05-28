@@ -97,3 +97,7 @@ google.com.hk##div#taw
 
 ! 今日头条
 toutiao.com##div[name*="adetail_right*top_1"]+div.pane-module
+
+
+! 微信公众平台
+mp.weixin.qq.com##div.qr_code_pc
