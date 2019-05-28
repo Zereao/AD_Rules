@@ -97,6 +97,7 @@ google.com.hk##div#taw
 
 ! 今日头条
 toutiao.com##div[name*="adetail_right*top_1"]+div.pane-module
+toutiao.com##div[class*="bui-left index-left"]
 
 
 ! 微信公众平台
