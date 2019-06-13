@@ -26,6 +26,7 @@ csdn.net,iteye.com##div.pulllog-box
 csdn.net,iteye.com##div.csdn-side-toolbar
 csdn.net,iteye.com##div[class="carousel_box wrapper"]
 csdn.net,iteye.com##div[class="appControl"]
+csdn.net,iteye.com##div[class="right_box footer_box csdn-tracking-statistics"]
 csdn.net,iteye.com##li.vip-caise
 
 
