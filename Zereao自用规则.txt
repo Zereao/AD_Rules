@@ -21,7 +21,10 @@ csdn.net,iteye.com##div.blog_tip_box
 csdn.net,iteye.com##div.bulletin
 csdn.net,iteye.com##div.leftPop
 csdn.net,iteye.com##div[id^="kp_box_"]
+csdn.net,iteye.com##div[class*="slide-outer right_top"]
 csdn.net,iteye.com##div.pulllog-box
+csdn.net,iteye.com##div.csdn-side-toolbar
+csdn.net,iteye.com##div[class="carousel_box wrapper"]
 
 
 ! itEye
@@ -102,3 +105,8 @@ toutiao.com##div[class*="share-box share-box-fixed"]
 
 ! 微信公众平台
 mp.weixin.qq.com##div.qr_code_pc
+
+
+! 诚通网盘
+ctfile.com##div#infoModal
+ctfile.com##div.modal-backdrop
