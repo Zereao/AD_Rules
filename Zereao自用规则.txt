@@ -115,3 +115,7 @@ mp.weixin.qq.com##div.qr_code_pc
 ! 诚通网盘
 ctfile.com##div#infoModal
 ctfile.com##div.modal-backdrop
+
+
+! 腾讯云
+cloud.tencent.com##div.com-event-panel
