@@ -83,6 +83,8 @@ runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
 
 ! 掘金
 juejin.im##div.recommend-box
+juejin.im##div.activity-recommend
+juejin.im##div.request-health-alert
 
 
 ! 易百教程
