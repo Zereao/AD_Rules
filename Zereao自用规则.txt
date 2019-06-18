@@ -75,6 +75,11 @@ imooc.com##div#BindingPublicNumber
 imooc.com##div#moco-top-advertising
 imooc.com##div.publicnumber-block
 imooc.com##div.adver-con
+imooc.com##div#globalTopBanner
+imooc.com##div#globalRightFloat
+imooc.com##div#J_GotoTop
+imooc.com##a[class="newcomer js-activity"]
+
 
 
 ! 菜鸟教程
