@@ -27,6 +27,7 @@ csdn.net,iteye.com##div.csdn-side-toolbar
 csdn.net,iteye.com##div[class="carousel_box wrapper"]
 csdn.net,iteye.com##div[class="appControl"]
 csdn.net,iteye.com##div[class="right_box footer_box csdn-tracking-statistics"]
+csdn.net,iteye.com##div[class="list-group qq-chat-box"]
 csdn.net,iteye.com##li.vip-caise
 csdn.net,iteye.com##dic.ad-wrap
 
@@ -104,7 +105,10 @@ yiibai.com##div#adv-javalive
 
 ! 51CTO
 51cto.com##div#Mask
+51cto.com##div.footer_mask
 51cto.com##div[style*="z-index: 9999999"]
+51cto.com##div[class*="mtgg m30"]
+51cto.com##div[class="top_bg"]+div.wrap
 
 
 ! Google
@@ -128,3 +132,7 @@ ctfile.com##div.modal-backdrop
 
 ! 腾讯云
 cloud.tencent.com##div.com-event-panel
+
+
+! 开源中国 OSChina
+oschina.net##div.ad-wrap
