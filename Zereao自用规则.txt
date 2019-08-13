@@ -136,3 +136,7 @@ cloud.tencent.com##div.com-event-panel
 
 ! 开源中国 OSChina
 oschina.net##div.ad-wrap
+
+
+! Redis 中文网
+redis.cn##header.site-header[style]
