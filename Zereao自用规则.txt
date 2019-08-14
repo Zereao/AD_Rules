@@ -61,6 +61,7 @@ baidu.com##a#selectsearch-icon
 baidu.com##div.guide-share-dir-tip
 baidu.com##div.module-canvas
 baidu.com##div.red-packet-box
+baidu.com##button[class="ghhider ghhb"]
 
 
 ! StackOverFlow
