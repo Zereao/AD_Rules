@@ -140,3 +140,4 @@ oschina.net##div.ad-wrap
 
 ! Redis 中文网
 redis.cn##header.site-header[style]
+redis.cn##iframe[class="bdselect_share_bg"][id^="bdSharePopup_"]
