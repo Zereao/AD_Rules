@@ -29,7 +29,8 @@ csdn.net,iteye.com##div[class="appControl"]
 csdn.net,iteye.com##div[class="right_box footer_box csdn-tracking-statistics"]
 csdn.net,iteye.com##div[class="list-group qq-chat-box"]
 csdn.net,iteye.com##li.vip-caise
-csdn.net,iteye.com##dic.ad-wrap
+csdn.net,iteye.com##div.ad-wrap
+csdn.net,iteye.com##a[target="view_window"]
 
 
 ! itEye
