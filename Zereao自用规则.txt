@@ -32,6 +32,7 @@ csdn.net,iteye.com##li.vip-caise
 csdn.net,iteye.com##div.ad-wrap
 csdn.net,iteye.com##a[target="view_window"]
 csdn.net,iteye.com##div.customize
+csdn.net,iteye.com##div.recommend-recommend-box
 
 
 ! itEye
