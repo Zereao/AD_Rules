@@ -57,7 +57,7 @@ jianshu.com##a#web-note-ad-1
 
 
 ! greasyfork
-greasyfork.org##div[class*="ad ad-ca"]
+greasyfork.org##div.ad
 
 
 ! 百度

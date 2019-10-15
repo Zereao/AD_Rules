@@ -1,9 +1,7 @@
-﻿[Adblock Plus 2.0]
-! Checksum: vXO2skD37egAcrKzRVhe1A
+[Adblock Plus 3.0]
+! Version: 201907022137
 ! Title: ChinaList+EasyList(修正)
 ! Expires: 12 hours
-! Version: 201907022137
-! Last Modified: 2019年02月26日 11:30
 ! Homepage: https://github.com/Zereao/AD_Rules
 !
 ! *** Fetched from: https://raw.github.com/chinalist/chinalist/master/adblock.txt ***
