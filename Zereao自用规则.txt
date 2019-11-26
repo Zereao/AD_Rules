@@ -154,3 +154,7 @@ redis.cn##div[class="bdselect_share_box"][id^="bdSharePopup_"]
 
 ! 爱奇艺
 iqiyi.com##[adid*=""][templatetype="common_pause"]
+
+
+! 搜狐
+sohu.com##div#left-bottom-ad
