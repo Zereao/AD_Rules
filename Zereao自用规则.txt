@@ -55,6 +55,7 @@ w3school.com.cn##div#ad
 ! 简书
 jianshu.com##div#note-fixed-ad-container
 jianshu.com##a#web-note-ad-1
+jianshu.com##section[aria-label="jianshu-ad"]
 
 
 ! greasyfork
