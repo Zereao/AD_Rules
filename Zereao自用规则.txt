@@ -60,6 +60,8 @@ jianshu.com##section[aria-label="jianshu-ad"]
 
 ! greasyfork
 greasyfork.org##div.ad
+greasyfork.org##div#codefund
+greasyfork.org##li.ad-entry
 
 
 ! 百度
