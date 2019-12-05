@@ -82,6 +82,10 @@ stackoverflow.com##div#js-gdpr-consent-banner
 ! 阿里云
 aliyun.com##div[aliyun-lego-data*=""][aliyun-lego-tip*=""]
 aliyun.com##div.float-tool
+aliyun.com##div.right-fix-box
+aliyun.com##div.dbl-popup-backdrop
+aliyun.com##div[role="alertdialog"]
+aliyun.com##div[data-spm="delivery"][class="aliyun-delivery-view-container"]
 
 
 ! 慕课网
