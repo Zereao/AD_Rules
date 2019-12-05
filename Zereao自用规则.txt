@@ -161,3 +161,7 @@ iqiyi.com##[adid*=""][templatetype="common_pause"]
 
 ! 搜狐
 sohu.com##div#left-bottom-ad
+
+
+! 有道
+youdao.com##div[class="dialog-guide-download mac-download"]
