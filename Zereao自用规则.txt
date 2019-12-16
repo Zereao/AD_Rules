@@ -28,6 +28,7 @@ csdn.net,iteye.com##div[class="carousel_box wrapper"]
 csdn.net,iteye.com##div[class="appControl"]
 csdn.net,iteye.com##div[class="right_box footer_box csdn-tracking-statistics"]
 csdn.net,iteye.com##div[class="list-group qq-chat-box"]
+csdn.net,iteye.com##div[class="opt-box text-center"]
 csdn.net,iteye.com##li.vip-caise
 csdn.net,iteye.com##div.ad-wrap
 csdn.net,iteye.com##a[target="view_window"]
@@ -116,6 +117,7 @@ juejin.im##div.request-health-alert
 yiibai.com##a#article-start
 yiibai.com##ins.adsbygoogle
 yiibai.com##div#adv-javalive
+yiibai.com##div[id^=adv_]
 
 
 ! 51CTO
