@@ -177,5 +177,11 @@ youdao.com##div[class="dialog-guide-download mac-download"]
 
 ! baeldung
 baeldung.com##div#ezmobfooter
+baeldung.com##div#cookie-notice
 baeldung.com##div.code-block
 baeldung.com##div[role="complementary"]
+
+
+! Dzone
+dzone.com##div.sidebar
+dzone.com##div.announcementBar
