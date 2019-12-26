@@ -110,6 +110,7 @@ imooc.com##a[class="newcomer js-activity"]
 
 ! 菜鸟教程
 runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
+runoob.com##br+div[class="sidebar-box re-box re-box-large"]
 
 
 ! 掘金
