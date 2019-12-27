@@ -195,4 +195,4 @@ dzone.com##div.announcementBar
 ！知乎
 zhihu.com##div[class="Card AppBanner"]
 zhihu.com##div[class="Card AppBanner"]+div[class="Card"]
-zhihu.com##div[class="Sticky"]:nth-last-of-type(2)
+zhihu.com##div[class="Card"][data-za-detail-view-path-module="ContentList"]+div[class="Card"]
