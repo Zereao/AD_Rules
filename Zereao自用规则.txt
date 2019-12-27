@@ -111,6 +111,7 @@ imooc.com##a[class="newcomer js-activity"]
 ! 菜鸟教程
 runoob.com##div[class*="sidebar-box ad-box ad-box-large"]
 runoob.com##br+div[class="sidebar-box re-box re-box-large"]
+runoob.com##div[data-tt*=""]
 
 
 ! 掘金
@@ -194,3 +195,4 @@ dzone.com##div.announcementBar
 ！知乎
 zhihu.com##div[class="Card AppBanner"]
 zhihu.com##div[class="Card AppBanner"]+div[class="Card"]
+zhihu.com##div[class="Sticky"]:nth-last-of-type(2)
