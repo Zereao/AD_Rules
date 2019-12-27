@@ -189,3 +189,8 @@ baeldung.com##div[role="complementary"]
 ! Dzone
 dzone.com##div.sidebar
 dzone.com##div.announcementBar
+
+
+！知乎
+zhihu.com##div[class="Card AppBanner"]
+zhihu.com##div[class="Card AppBanner"]+div[class="Card"]
