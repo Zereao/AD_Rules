@@ -197,3 +197,4 @@ dzone.com##div.announcementBar
 zhihu.com##div[class="Card AppBanner"]
 zhihu.com##div[class="Card AppBanner"]+div[class="Card"]
 zhihu.com##div[class="Card"][data-za-detail-view-path-module="ContentList"]+div[class="Card"]
+zhihu.com##div.Question-sideColumnAdContainer
