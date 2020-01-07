@@ -52,6 +52,7 @@ segmentfault.com##div[class*="text-center block hidden-xs"]
 segmentfault.com##div[class*="block text-center"]
 segmentfault.com##div.hidden-md
 segmentfault.com##div.float-ads
+segmentfault.com##div.justify-content-center
 
 
 ! W3CSchool
