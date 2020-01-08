@@ -199,3 +199,8 @@ zhihu.com##div[class="Card AppBanner"]
 zhihu.com##div[class="Card AppBanner"]+div[class="Card"]
 zhihu.com##div[class="Card"][data-za-detail-view-path-module="ContentList"]+div[class="Card"]
 zhihu.com##div.Question-sideColumnAdContainer
+
+
+! V2EX
+v2ex.com##div[id="Rightbar"] :nth-child(5)
+v2ex.com##div[id="Rightbar"] :nth-child(6)
