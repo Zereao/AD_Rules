@@ -80,6 +80,7 @@ baidu.com##div.red-packet-box
 baidu.com##button[class="ghhider ghhb"]
 baidu.com##div#branding_ads
 baidu.com##div[class="cps_wrap"][data-tid*=""]
+baidu.com##div[ac-needhide="1"]
 
 
 ! StackOverFlow
