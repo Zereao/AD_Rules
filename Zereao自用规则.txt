@@ -205,3 +205,7 @@ zhihu.com##div.Question-sideColumnAdContainer
 ! V2EX
 v2ex.com##div[id="Rightbar"] :nth-child(5)
 v2ex.com##div[id="Rightbar"] :nth-child(6)
+
+
+! 虎牙
+huya.com##div.room-gg-chat
