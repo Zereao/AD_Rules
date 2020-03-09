@@ -41,6 +41,7 @@ csdn.net,iteye.com##div#msgList>dd
 csdn.net,iteye.com##a[class="c_dl_btn open_vip"]
 csdn.net,iteye.com##a[class="c_dl_btn open_student"]
 csdn.net,iteye.com##div[class="cardr fr"]
+csdn.net,iteye.com##div.box-shadow
 
 
 ! itEye
