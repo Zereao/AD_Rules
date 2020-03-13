@@ -43,6 +43,7 @@ csdn.net,iteye.com##a[class="c_dl_btn open_student"]
 csdn.net,iteye.com##div[class="cardr fr"]
 csdn.net,iteye.com##div.box-shadow
 csdn.net,iteye.com##div#addAdBox
+csdn.net,iteye.com##div[class="aside-box kind_person d-flex flex-column"]
 
 
 ! itEye
