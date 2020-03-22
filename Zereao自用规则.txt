@@ -55,7 +55,6 @@ segmentfault.com##div[class*="text-center block hidden-xs"]
 segmentfault.com##div[class*="block text-center"]
 segmentfault.com##div.hidden-md
 segmentfault.com##div.float-ads
-segmentfault.com##div.justify-content-center
 
 
 ! W3CSchool
@@ -76,7 +75,7 @@ greasyfork.org##li.ad-entry
 
 
 ! 百度
-baidu.com##a#selectsearch-icon
+baidu.com##img#selectsearch-icon
 baidu.com##div.guide-share-dir-tip
 baidu.com##div.module-canvas
 baidu.com##div.red-packet-box
@@ -84,6 +83,7 @@ baidu.com##button[class="ghhider ghhb"]
 baidu.com##div#branding_ads
 baidu.com##div[class="cps_wrap"][data-tid*=""]
 baidu.com##div[ac-needhide="1"]
+baidu.com##div.jump-top-box
 
 
 ! StackOverFlow
