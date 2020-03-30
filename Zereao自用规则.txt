@@ -44,6 +44,7 @@ csdn.net,iteye.com##div[class="cardr fr"]
 csdn.net,iteye.com##div.box-shadow
 csdn.net,iteye.com##div#addAdBox
 csdn.net,iteye.com##div[class="aside-box kind_person d-flex flex-column"]
+csdn.net,iteye.com##div.summary_prompt
 
 
 ! itEye
@@ -52,6 +53,7 @@ iteye.com##div.tuiguang
 
 ！SegmentFault 思否
 segmentfault.com##div[class*="text-center block hidden-xs"]
+segmentfault.com##div[class*="mb25 hidden-md hidden-sm hidden-xs"]
 segmentfault.com##div[class*="block text-center"]
 segmentfault.com##div.hidden-md
 segmentfault.com##div.float-ads
