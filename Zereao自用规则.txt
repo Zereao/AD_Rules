@@ -214,3 +214,7 @@ v2ex.com##div[id="Rightbar"] :nth-child(6)
 
 ! 虎牙
 huya.com##div.room-gg-chat
+
+
+! 腾讯视频
+v.qq.com##txpdiv[data-role="hd-ad-adapter-interactivelayer"]
