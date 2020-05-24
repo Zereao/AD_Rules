@@ -1,9 +1,8 @@
-[Adblock Plus 2.0]
-! Checksum: YIUJKRMF5s9H/Jva737TZQ
-! Title: Zereao自用规则
+[Adblock Plus 3.0]
+! Title: Program Engineer List
 ! Expires: 12 hours
-! Version: 201902261130
-! Last Modified: 2019年02月26日 11:30
+! Version: 202005241430
+! Last Modified: 2020年05月24日 14:30
 ! Homepage: https://github.com/Zereao/AD_Rules
 
 
