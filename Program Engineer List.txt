@@ -85,6 +85,13 @@ baidu.com##div#branding_ads
 baidu.com##div[class="cps_wrap"][data-tid*=""]
 baidu.com##div[ac-needhide="1"]
 baidu.com##div.jump-top-box
+baike.baidu.com##div.after-content
+baike.baidu.com##div.right-ad
+baike.baidu.com##div.lemmaWgt-promotion-vbaike
+baike.baidu.com##div.lemmaWgt-promotion-slide
+baike.baidu.com##div#side-auth
+baike.baidu.com##ul.lemmaWgt-secondsKnow-gallery
+baike.baidu.com##div[class="new-bdsharebuttonbox new-side-share"]
 
 
 ! StackOverFlow
