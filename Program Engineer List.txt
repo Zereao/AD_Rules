@@ -132,7 +132,7 @@ runoob.com##div[data-tt*=""]
 juejin.cn##div.recommend-box
 juejin.cn##div.activity-recommend
 juejin.cn##div.request-health-alert
-
+juejin.cn##div.sidebar-bd-entry
 
 ! 易百教程
 yiibai.com##a#article-start
