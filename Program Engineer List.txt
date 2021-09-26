@@ -129,9 +129,9 @@ runoob.com##div[data-tt*=""]
 
 
 ! 掘金
-juejin.im##div.recommend-box
-juejin.im##div.activity-recommend
-juejin.im##div.request-health-alert
+juejin.cn##div.recommend-box
+juejin.cn##div.activity-recommend
+juejin.cn##div.request-health-alert
 
 
 ! 易百教程
