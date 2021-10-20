@@ -43,7 +43,10 @@ csdn.net,iteye.com##div[class="cardr fr"]
 csdn.net,iteye.com##div.box-shadow
 csdn.net,iteye.com##div#addAdBox
 csdn.net,iteye.com##div[class="aside-box kind_person d-flex flex-column"]
+csdn.net,iteye.com##div[class="toolbar-btn toolbar-btn-vip csdn-toolbar-fl"]
 csdn.net,iteye.com##div.summary_prompt
+csdn.net,iteye.com##div.toolbar-advert
+csdn.net,iteye.com##div.redpack-select-noluck
 
 
 ! itEye
