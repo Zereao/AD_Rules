@@ -227,3 +227,7 @@ huya.com##div.room-gg-chat
 
 ! 腾讯视频
 v.qq.com##txpdiv[data-role="hd-ad-adapter-interactivelayer"]
+
+
+! BT天堂
+jsr9.com##div#dachuiya
